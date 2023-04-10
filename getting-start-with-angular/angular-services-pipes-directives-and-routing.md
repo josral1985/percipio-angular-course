@@ -1,4 +1,14 @@
 <!-- markdownlint-disable MD025-->
+<!-- markdownlint-disable MD041-->
+
+- [Services](#angular-services)
+  - [The Workings of Angular Services](#the-workings-of-angular-services)
+- [Pipes](#angular-pipes)
+- [Directives](#angular-directives)
+  - [Types of Directives](#types-of-directives)
+    - [Structural](#structural-directive)
+    - [Attribute](#attribute-directive)
+- [Routing](#angular-routing)
 
 # Angular Services
 
