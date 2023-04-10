@@ -16,9 +16,6 @@ Finally, investigate the different characteristics of package.json files and out
 - Outline a high-level overview of Angular - its past and present.
 - Recognize the various parts of an Angular application and how to they relate to one other.
 - List the different building blocks of Angular, namely Angular components, services, modukles, and routing.
-- Demonstrate the installation of Node.js.
-- Demonstrate the installation of Visual Studio Code.
-- Demonstrate the installation of the Angular CLI.
 - Create and run an Angular application using the CLI.
 - Describe the characteristics of package.json files.
 - Outline the basic characteristics of Typescript.
