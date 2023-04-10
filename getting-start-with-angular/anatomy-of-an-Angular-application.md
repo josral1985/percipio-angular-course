@@ -34,3 +34,11 @@
 - Contain the HTML along with styles and other business logic
   - i.e., `.html`, `.spec.ts`, `component.ts`, `.css` files
 - Can define the actions the user can perform within the component
+- Components are directives with a template
+- Each component belongs to an Angular module
+- Components are created using classes
+- The `@Component` decorateor is used for these
+
+## Parts of Angular Components
+
+![Parts of Angular Components](img/parts-of-a-component.png)
