@@ -21,6 +21,8 @@ export class HomeComponent implements OnInt {
 }
 ```
 
+`home.component.html`:
+
 ```HTML
 <div id="demo">
   <p>home works!</p>
