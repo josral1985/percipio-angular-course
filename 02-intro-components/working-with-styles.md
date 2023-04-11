@@ -57,4 +57,6 @@ export class HomeComponent implements OnInit {
 ```
 
 output:
-![Inline Styles](img/inline-styles.png)
+
+https://user-images.githubusercontent.com/123595127/231266842-4f237ee9-f214-43f8-af75-2f86272ba439.mp4
+
