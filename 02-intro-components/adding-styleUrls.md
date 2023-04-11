@@ -1,6 +1,6 @@
 # Adding styleUrls to Angular Components
 
-One the component is created, the style temple (css file) is created. This template is empty.
+Once the component is created, the style template (css file) is created. This template is empty.
 
 `home.component.ts`:
 
