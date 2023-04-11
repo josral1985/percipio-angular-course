@@ -20,6 +20,6 @@ When an object is created new memory space is created. Once the class has execut
 
 ## Adding Access Modifiers to Classes
 
-| Public                        | Private                            | Protected                         |
-| ----------------------------- | ---------------------------------- | --------------------------------- |
-| Any other class can access it | Cannot be access outside the class | private to the class and subclass |
+| Public                        | Private                              | Protected                         |
+| ----------------------------- | ------------------------------------ | --------------------------------- |
+| Any other class can access it | Cannot be accessed outside the class | private to the class and subclass |
