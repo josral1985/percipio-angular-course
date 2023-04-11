@@ -10,6 +10,8 @@ ng generate component home # creates a new component named "home".
 # new component and is ready to use (imported)
 ```
 
+> command shortcut: `ng g c home`
+
 `home.component.ts` is created with the below code:
 
 ```JS
