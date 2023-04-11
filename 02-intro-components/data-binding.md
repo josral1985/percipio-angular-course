@@ -100,4 +100,6 @@ export class AppModule { }
 
 `output`:
 
-![Two-Way Binding](vids/two-way-binding.mp4)
+<!-- markdownlint-disable MD033-->
+
+<video src="vids/two-way-binding.mp4">
