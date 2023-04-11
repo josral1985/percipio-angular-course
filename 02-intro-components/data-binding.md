@@ -102,7 +102,4 @@ export class AppModule { }
 
 <!-- markdownlint-disable MD033-->
 
-
 https://user-images.githubusercontent.com/123595127/231267920-7d63927e-f978-45ca-8d9d-2555e18402b2.mp4
-
-
