@@ -102,4 +102,4 @@ export class AppModule { }
 
 <!-- markdownlint-disable MD033-->
 
-<video src="vids/two-way-binding.mp4">
+![Two Way Binding](https://github.com/josral1985/percipio-angular-course/blob/main/02-intro-components/vids/two-way-binding.mp4)
