@@ -59,3 +59,45 @@ name: string = "Jose";
 `output`:
 
 ![Interpolation](img/string-interpolation.png)
+
+## Two-Way Binding
+
+We can also do two-way binding when we both set the component's property and also modify the DOM without having to refresh. This is done `[(ngModel)]`. To be able to use this two-way binding we first have to import `FormsModule` from `@angular/core` and append the `imports` array on `app.module.ts` file with it.
+
+`app.module.ts`
+
+```JS
+import { NgModule } from '@angular/core';
+import { BrowserModule } from '@angular/platform-browser';
+
+import { AppComponent } from './app.component';
+import { HomeComponent } from './home/home.component';
+import { FormsModule } from '@angular/forms';
+
+@NgModule({
+  declarations: [
+    AppComponent,
+    HomeComponent
+  ],
+  imports: [
+    BrowserModule,
+    FormsModule
+  ],
+  providers: [],
+  bootstrap: [AppComponent]
+})
+export class AppModule { }
+
+```
+
+`home.component.html`
+
+```HTML
+<div>
+  <input type="text" [(ngModel)]="name">
+</div>
+```
+
+`output`:
+
+![Two-Way Binding](vids/two-way-binding.mp4)
