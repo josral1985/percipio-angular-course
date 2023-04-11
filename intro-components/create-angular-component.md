@@ -4,8 +4,10 @@
 # navigate to angular application directory
 ng generate component home # creates a new component named "home".
 
-# It creates a new folder inside `src/app/` and in it creates the home.component.ts, home.component.spec.ts, home.component.html, and home.component.html
-# it also modifies the app.module.ts file making sure that Angular is aware of this new component and is ready to use (imported)
+# It creates a new folder inside `src/app/` and in it creates the home.component.ts,
+# home.component.spec.ts, home.component.html, and home.component.html
+# it also modifies the app.module.ts file making sure that Angular is aware of this
+# new component and is ready to use (imported)
 ```
 
 `home.component.ts` is created with the below code:
