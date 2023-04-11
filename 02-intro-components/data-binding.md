@@ -100,7 +100,5 @@ export class AppModule { }
 
 `output`:
 
-<!-- markdownlint-disable MD033-->
-
 ![Two-Way Binding](https://user-images.githubusercontent.com/123595127/231265386-cf8718b5-fb1d-4d72-8f95-99570d563005.mp4)
 
