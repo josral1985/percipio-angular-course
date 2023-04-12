@@ -47,7 +47,7 @@ export class ProductComponent {}
 <h2>Product Files</h2>
 ```
 
-**We will then have to change the `index.html` file found in the `src/` directory of the application. By default it displays `app.root`, which is the `AppComponent` selector. Change this to `<app-product></app-product>`
+We will then have to change the `index.html` file found in the `src/` directory of the application. By default it displays `app.root`, which is the `AppComponent` selector. Change this to `<app-product></app-product>`
 
 `index.html`:
 
