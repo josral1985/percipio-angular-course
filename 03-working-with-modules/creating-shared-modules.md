@@ -14,7 +14,7 @@ ng g m shared --module=products-feature
 
 ![Shared Module Command](img/shared-module-create.png)
 
-This command creates `shared` directory inside the `app/src` folder and imported it to the `products-feature.module.ts` file.
+This command creates `shared` directory inside the `src/app` folder and imported it to the `products-feature.module.ts` file.
 
 ```JS
 //products-feature.module.ts
@@ -41,7 +41,7 @@ export class ProductsFeatureModule { }
 ```
 
 ```JS
-// app/src/shared/shared.module.ts
+// src/app/shared/shared.module.ts
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
